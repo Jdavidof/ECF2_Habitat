@@ -1,0 +1,60 @@
+#corps_page{
+    border:2px solid #A00000;
+    width:1024px;
+    padding-bottom:380px;
+    text-align:justify; 
+    padding-left:10px;
+    padding-right:10px;
+}
+
+
+h1{
+    font-size:25px;
+    background-color: #A00000;
+    color:white;
+    text-align: center;
+    border-radius: 15%/20%;
+  }
+h2{
+    font-size:17px;
+    background-color: #A00000;
+    color:white;
+    text-align: center;
+    border-radius: 15%/20%;
+}
+
+table
+{
+    border:2px solid #A00000;
+    width:100%;
+    margin-left:5px;
+    margin-right:5px;  
+    padding: auto;
+}
+th{
+    font-size: 12px;
+    text-align:center;
+    color:#A00000;  
+
+}
+
+
+td/* Mettre une bordure sur les td ET les th */
+{
+    border: 1px solid blue;
+    width:90px;
+    font-size:10px;
+    font-family:Trebuchet MS,Impact,"Arial Black",Verdana,sans-serif;
+    
+    
+}
+#logo_maison{
+    
+    width:110%;
+    height:10%;
+    text-align:center;
+    
+    
+}
+
+
